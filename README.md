@@ -35,7 +35,8 @@ int main()
 ```
 
 # OUTPUT
-![Screenshot (29)](https://github.com/user-attachments/assets/5440780c-1c83-4db3-b3d6-6b62da1d1fa2)
+![image](https://github.com/user-attachments/assets/ce2c044e-ab9b-4fde-912a-186c508cf4d7)
+
 
 
 
